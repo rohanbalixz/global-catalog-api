@@ -1,0 +1,10 @@
+boto3
+aioboto3
+pydantic>=2
+fastapi
+uvicorn[standard]
+httpx
+mypy
+pytest
+pytest-asyncio
+types-boto3

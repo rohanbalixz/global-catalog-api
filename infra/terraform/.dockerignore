@@ -1,0 +1,12 @@
+.vscode
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+terraform.tfstate*
+.terraform/
+.aws-sam/
+*.log
+k6_load.js
