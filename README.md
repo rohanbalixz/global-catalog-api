@@ -20,7 +20,7 @@ This project was developed as a demonstration of building a **highly available, 
 ---
 
 ## Architecture Diagram
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](docs/snaps/workflow.png)
 
 **Key Components:**
 1. **FastAPI Application** – Serves API endpoints.
